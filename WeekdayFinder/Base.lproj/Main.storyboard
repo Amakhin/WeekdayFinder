@@ -94,7 +94,7 @@
                                     <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
                                 </state>
                                 <connections>
-                                    <action selector="findDay" destination="BYZ-38-t0r" eventType="touchUpInside" id="KdX-2S-uiC"/>
+                                    <action selector="findWeekDay" destination="BYZ-38-t0r" eventType="touchUpInside" id="6Mv-fl-5Js"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -113,7 +113,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="dataTF" destination="7ZV-Kb-Jo2" id="HQh-33-sDH"/>
+                        <outlet property="dateTF" destination="7ZV-Kb-Jo2" id="5y0-UB-4tP"/>
                         <outlet property="monthTF" destination="QuN-tZ-UT2" id="sUo-Ya-APh"/>
                         <outlet property="resultLabel" destination="lCS-Pd-bIN" id="Xm5-P2-65x"/>
                         <outlet property="yearTF" destination="IWD-I4-I3w" id="Ngb-dQ-znL"/>
